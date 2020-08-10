@@ -18,9 +18,6 @@ const App = () => {
           <div>
             <GoogleInput />
           </div>
-          <main>
-
-          </main>
       </div>
     </Fragment>
   )
